@@ -7,3 +7,5 @@ Esse é um projeto que contém uma análise com algumas filtragens de dados de s
 Para esse projeto, utilizei Python por notebooks no Google Colab.
 
 **Para acessar o projeto, basta acessar o próprio Google Colab, ele já possui todas as bibliotecas já instaladas**
+
+>  This is a challenge by [Coodesh](https://coodesh.com/)
